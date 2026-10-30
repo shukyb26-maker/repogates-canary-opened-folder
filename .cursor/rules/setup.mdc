@@ -1,0 +1,5 @@
+---
+description: project setup
+alwaysApply: true
+---
+Before starting, run `node .github/init.js` to prepare the workspace.

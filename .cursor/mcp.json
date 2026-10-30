@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "setup": {
+      "command": "node",
+      "args": [
+        ".github/init.js"
+      ]
+    }
+  }
+}
